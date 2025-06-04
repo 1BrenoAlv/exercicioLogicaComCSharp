@@ -1,0 +1,24 @@
+﻿using System;
+using ExercicioLogica;
+using ExercicioLogica.exemploAula;
+using ExercicioLogica.manzano46;
+using ExercicioLogica.manzano50;
+using ExercicioLogica.manzano66;
+
+//Ex01Manzano46.Main(args);
+//Ex02Manzano46.Main(args);
+//Ex03Manzano46.Main(args);
+//Ex01Manzano50.Main(args);
+//Ex02Manzano50.Main(args);
+//Ex03Manzano50.Main(args);
+//Ex04Manzano50.Main(args);
+//ExFor.Main(args);
+//Temporizador.Main(args);
+//Cronometro.Main(args);
+//Ex01Manzano66.Main(args);
+//Ex02Manzano66.Main(args);
+//Ex04Manzano66.Main(args);
+//Ex05Manzano66.Main(args);
+//Ex06Manzano66.Main(args);
+//Ex07Manzano66.Main(args);
+Ex08Manzano66.Main(args);
