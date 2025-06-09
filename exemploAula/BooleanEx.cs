@@ -10,11 +10,16 @@ namespace ExercicioLogica.exemploAula
     {
         public static void Main(string[] args)
         {
-            bool idadePermitida = true;
-            bool idadeProibida = false;
+            //bool idadePermitida = true;
+            //bool idadeProibida = false;
 
-            Console.WriteLine(idadeProibida);
-            Console.WriteLine(idadePermitida);
+            //Console.WriteLine(idadeProibida);
+            //Console.WriteLine(idadePermitida);
+
+            int Myidade = 18;
+            Console.WriteLine(Myidade >= 18);
+
+            
         }
     }
 }
