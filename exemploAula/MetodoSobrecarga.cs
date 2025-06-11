@@ -24,7 +24,7 @@ namespace ExercicioLogica.exemploAula
         //}
 
         static int Soma(int numero01, int numero02)
-        {
+        { 
             return numero01 + numero02;
         }
 
