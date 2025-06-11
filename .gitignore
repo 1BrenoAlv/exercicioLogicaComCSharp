@@ -1,0 +1,45 @@
+# Pasta do Visual Studio
+.vs/
+.vscode/
+
+# Builds
+bin/
+obj/
+TestResults/
+
+# Arquivos temporários e de cache
+*.user
+*.suo
+*.cache
+*.log
+*.dbmdl
+*.pdb
+*.db
+*.mdb
+*.ldf
+*.ndf
+
+# Arquivos de publicação
+*.publish.xml
+
+# Configurações locais
+*.localhistory/
+*.DS_Store
+Thumbs.db
+
+# Arquivos do Rider/ReSharper
+.idea/
+*.DotSettings.user
+
+# Arquivos do Visual Studio Code
+*.code-workspace
+
+# Ignorar pacotes do NuGet restaurados
+packages/
+*.nupkg
+
+# Outros
+*.tmp
+*.bak
+*.swp
+*.sln.docstates

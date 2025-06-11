@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Proa\\cSharp\\ExercicioLogica\\ExercicioLogica.csproj",
+      "projectUniqueName": "C:\\Users\\ba332\\Source\\Repos\\exercicioLogicaComCSharp\\ExercicioLogica.csproj",
       "projectName": "ExercicioLogica",
-      "projectPath": "E:\\Proa\\cSharp\\ExercicioLogica\\ExercicioLogica.csproj",
+      "projectPath": "C:\\Users\\ba332\\Source\\Repos\\exercicioLogicaComCSharp\\ExercicioLogica.csproj",
       "packagesPath": "C:\\Users\\ba332\\.nuget\\packages\\",
-      "outputPath": "E:\\Proa\\cSharp\\ExercicioLogica\\obj\\",
+      "outputPath": "C:\\Users\\ba332\\Source\\Repos\\exercicioLogicaComCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

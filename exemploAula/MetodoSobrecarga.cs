@@ -8,7 +8,7 @@ namespace ExercicioLogica.exemploAula
 {
     internal class MetodoSobrecarga
     {
-        //static int SomaInt(int numero01,int numero02)
+        //static int SomaInt(int numero01,int numero02)  // JEITO ERRADO DE SE FAZER 
         //{
         //    return numero01 + numero02;
         //}
