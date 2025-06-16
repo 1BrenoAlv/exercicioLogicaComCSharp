@@ -10,15 +10,14 @@ namespace ExercicioLogica.listaIAGemini
     {
         public static void Main(string[] args)
         {
-            int[] number = new int[5];
-            int somatorio = 0;
+            double[] number = new double[5];
             for (int i = 0; i < number.Length; i++)
             {
                 Console.WriteLine($"Digite um valor para somar: ");
                 number[i] = Convert.ToInt32(Console.ReadLine());
-                somatorio += number[i];
+                
             }
-            Console.WriteLine($"O somatório dos números é {somatorio}");
+            Console.WriteLine($"O somatório dos números é {number.Sum()}");
         }
     }
 }
