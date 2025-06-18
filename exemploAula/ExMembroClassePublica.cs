@@ -14,8 +14,7 @@ namespace ExercicioLogica.exemploAula
             breno.nome = "Breno";
             breno.altura = 1.88D;
             breno.idade = 18;
-            Console.WriteLine($"Nome:{Breno.nome}\nIdade:{Breno.idade}\nAltura:{Breno.altura}\n{Breno.Equipe2()}");
-            
+            Console.WriteLine($"Nome:{breno.nome}\nIdade:{breno.idade}\nAltura:{breno.altura}\n{breno.Equipe2()}");
         }
     }
 }

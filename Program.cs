@@ -62,4 +62,6 @@ using System;
 //Ex05ListaIAGemini.Main(args);
 //MembroClasse01.Main(args);
 //ExMembroClassePublica.Main(args);
-//Costrutor.Main(args);
+//Construtor.Main(args);
+//ExConstrutor01.Main(args);
+//ExGetSetMain.Main(args);

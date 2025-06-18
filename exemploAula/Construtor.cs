@@ -6,18 +6,18 @@ using System.Threading.Tasks;
 
 namespace ExercicioLogica.exemploAula
 {
-    internal class Costrutor
+    internal class Construtor
     {
         public string idadeAluno;
 
-        public Costrutor(string idade)
+        public Construtor(string idade)
         {
             idadeAluno = idade;
         }
 
         public static void Main(string[] args)
         {
-            Costrutor breno = new Costrutor("18");
+            Construtor breno = new Construtor("18");
             Console.WriteLine($"A minha idade é {breno.idadeAluno}");
         }
     }
